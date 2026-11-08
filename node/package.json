@@ -1,0 +1,13 @@
+{
+  "name": "focusllm-examples",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Examples for the FocusLLM email parsing APIs",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "invoice": "node parse-invoice.js",
+    "booking": "node parse-booking.js",
+    "extra-fields": "node extra-fields.js"
+  }
+}

@@ -1,0 +1,12 @@
+From: Northwind Hosting <billing@northwind.example>
+To: ap@yourcompany.example
+Subject: Invoice NW-2026-0412
+Date: Mon, 02 Nov 2026 09:14:00 +0000
+Content-Type: text/plain; charset=utf-8
+
+Invoice NW-2026-0412, issued 2 November 2026, due 2 December 2026.
+Northwind Hosting GmbH, VAT DE123456789
+Cloud server, 1 x EUR 54.54
+Net EUR 54.54, VAT 19% EUR 10.36, total EUR 64.90.
+Payment reference: NW-2026-0412
+PO number: PO-7781

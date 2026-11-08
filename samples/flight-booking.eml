@@ -1,0 +1,11 @@
+From: Skyline Air <bookings@skylineair.example>
+To: jane.doe@example.com
+Subject: Your booking is confirmed - Ref K7QX2P
+Date: Wed, 04 Nov 2026 18:02:00 +0000
+Content-Type: text/plain; charset=utf-8
+
+Booking reference: K7QX2P
+Passenger: Jane Doe, ticket 999-2400017731
+Flight SK 482, Paris CDG 14 Dec 2026 07:35 to Lisbon LIS 14 Dec 2026 09:10, seat 14C
+Flight SK 489, Lisbon LIS 18 Dec 2026 19:45 to Paris CDG 18 Dec 2026 23:15, seat 21A
+Total paid: EUR 184.20

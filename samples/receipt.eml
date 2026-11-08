@@ -1,0 +1,17 @@
+From: Café Lumière <receipts@cafe-lumiere.example>
+To: jane.doe@example.com
+Subject: Votre reçu / Your receipt #A-10293
+Date: Fri, 06 Nov 2026 12:41:00 +0100
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<html><body>
+<h2>Café Lumière SA</h2>
+<p>IDE CHE-109.322.551 TVA</p>
+<table>
+  <tr><td>2 x Menu du jour</td><td>CHF 47.00</td></tr>
+  <tr><td>1 x Eau minérale</td><td>CHF 5.50</td></tr>
+</table>
+<p>Total TTC : CHF 52.50 (dont TVA 8.1 % : CHF 3.94)</p>
+<p>Reçu n° A-10293 du 06.11.2026 — payé par carte</p>
+</body></html>

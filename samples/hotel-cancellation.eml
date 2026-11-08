@@ -1,0 +1,11 @@
+From: Hotel Alfama <reservations@hotel-alfama.example>
+To: jane.doe@example.com
+Subject: Cancellation of your reservation 55821
+Date: Thu, 05 Nov 2026 08:20:00 +0000
+Content-Type: text/plain; charset=utf-8
+
+Dear Jane Doe,
+
+Your reservation 55821 at Hotel Alfama, Lisbon, has been cancelled as requested.
+Stay: check-in 14 Dec 2026 15:00, check-out 18 Dec 2026 11:00, 1 Double Room.
+No cancellation fee has been charged. Refund: EUR 0.00.
